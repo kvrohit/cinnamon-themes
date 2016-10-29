@@ -1,0 +1,13 @@
+/* ===================================================================
+   ! Tooltips
+   ===================================================================*/
+
+#Tooltip {
+    border-image: url("background-assets/tooltip.svg") 4;
+    padding: 8px 10px;
+    color: $text-primary;
+    font-size: 10pt;
+    font-weight: normal;
+    text-align: center;
+    spacing: .3em;
+}

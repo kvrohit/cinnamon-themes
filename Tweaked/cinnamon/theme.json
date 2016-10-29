@@ -1,0 +1,10 @@
+{
+   "cinnamon-theme": {
+        "name" : "Tweaked",
+        "author" : "kvrohit",
+        "version" : "1.0.0",
+        "type" : "custom",
+        "thumbnail" : "",
+        "url" : "https://github.com/kvrohit/cinnamon-theme-tweaked"
+    }
+}
